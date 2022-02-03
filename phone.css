@@ -1,0 +1,50 @@
+/* this is nabigation secton  */
+
+#navigation {
+    flex-direction: column;
+    top: 4px;
+}
+
+
+/* this id head section  */
+
+#head h2 {
+    font-size: 2rem;
+}
+
+#container p {
+    text-align: center;
+}
+
+
+/* this is service section  */
+
+#sub-div {
+    flex-direction: column;
+}
+
+
+/* this is clint section  */
+
+#cliant {
+    margin: 0px;
+    flex-wrap: wrap;
+    margin: 0px;
+}
+
+#cliant-section {
+    height: 305px;
+    width: 100%;
+    margin: 0px;
+}
+
+.cliant-item {
+    padding: 8px;
+}
+
+
+/* this is contact us section  */
+
+#contact-us {
+    margin: 0px;
+}
